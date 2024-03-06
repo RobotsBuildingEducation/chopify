@@ -15,7 +15,7 @@ import {
 import {AppSession} from '~/lib/session';
 import {CART_QUERY_FRAGMENT} from '~/lib/fragments';
 
-/**
+/*****
  * Export a fetch handler in module format.
  */
 export default {
